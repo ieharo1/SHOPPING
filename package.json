@@ -7,7 +7,7 @@
     "start": "ng serve",
     "build": "ng build",
     "build:dev": "ng build --configuration development",
-    "deploy": "ng build --configuration production --base-href=/PUCELANT-WEB-2/ && npx angular-cli-ghpages --dir=dist/shopping/browser --no-silent"
+    "deploy": "ng build --configuration production --base-href=/SHOPPING/ && npx angular-cli-ghpages --dir=dist/shopping/browser --no-silent"
   },
   "private": true,
   "dependencies": {
