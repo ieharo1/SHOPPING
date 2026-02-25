@@ -51,7 +51,7 @@ import { CommonModule } from '@angular/common';
       <div class="footer-dev">
         <h4>Desarrollado por Isaac Esteban Haro Torres</h4>
         <p><strong>Ingeniero en Sistemas · Full Stack · Automatización · Data</strong></p>
-        <p>Email: zackharo1@gmail.com | WhatsApp: 098805517</p>
+        <p>Email: zackharo1&#64;gmail.com | WhatsApp: 098805517</p>
         <p>GitHub: <a href="https://github.com/ieharo1" target="_blank">https://github.com/ieharo1</a> | Portafolio: <a href="https://ieharo1.github.io/portafolio-isaac.haro/" target="_blank">https://ieharo1.github.io/portafolio-isaac.haro/</a></p>
       </div>
       
